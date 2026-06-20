@@ -19,8 +19,7 @@ CSE Student | Building ideas into code | Exploring AI, Web Development & Problem
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anushkasingh250107-cmd&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=anushkasingh250107-cmd&icon=0&color=10)](https://visitcount.itsvg.in)
